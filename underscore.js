@@ -5,7 +5,7 @@
 
 (function() {
 
-  // Baseline setup
+  // Baseline setup 嘎嘎嘎
   // --------------
 
   // Establish the root object, `window` (`self`) in the browser, `global`
